@@ -20,10 +20,10 @@
   tiberium_event.1.a:0 "We need to take action!"
 
   tiberium_event.2.t:0 "[From.Root.GetName] taken over by Tiberium"
-  tiberium_event.2.desc:0 "[From.Root.GetName] have completely succumbed to the Tiberium crystals. Strange mutated creatures roam the vast wasteland that remains. And people are fleeing in panic."
+  tiberium_event.2.desc:0 "[From.Root.GetName] has completely succumbed to the Tiberium crystals. Strange mutated creatures roam the vast wasteland that remains. And people are fleeing in panic."
   tiberium_event.2.a:0 "Horrific!"
 
 
-  tiberium_event.3.t:0 "Tiberium have been spotted within our border"
-  tiberium_event.3.desc:0 "[From.Root.GetName] have completely succumbed to the Tiberium crystals. Strange mutated creatures roam the vast wasteland that remains. And people are fleeing in panic."
+  tiberium_event.3.t:0 "Tiberium has been spotted within our borders"
+  tiberium_event.3.desc:0 "[From.Root.GetName] has completely succumbed to the Tiberium crystals. Strange mutated creatures roam the vast wasteland that remains. And people are fleeing in panic." #doesn't seem to match the title,so i'm assuming this is just a placeholder
   tiberium_event.3.a:0 "Horrific!"
