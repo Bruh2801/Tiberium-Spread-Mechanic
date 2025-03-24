@@ -12,7 +12,7 @@
   tiberium_init.2.a:0 "Worrisome..."
 
   tiberium_init.9.t:0 "Tiberium seems to be spreading"
-  tiberium_init.9.desc:0 "Reports are coming in from across the region of Tuscany that the Tiberium crystals seems to be spreading. Strange trees seems to be the source of the spread. Scientists are looking into the phenomenon."
+  tiberium_init.9.desc:0 "Reports are coming in from across the region of Tuscany that the Tiberium crystals seems to be spreading. Strange trees seem to be the source of the spread. Scientists are looking into the phenomenon."
   tiberium_init.9.a:0 "This cant be good..."
 
   tiberium_event.1.t:0 "Our nation is in disarray!"
