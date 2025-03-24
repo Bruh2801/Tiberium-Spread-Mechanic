@@ -10,3 +10,9 @@
   tiberium_infestation_state_3:0 "Heavy Tiberium Infestation"
   tiberium_infestation_state_4:0 "Extreme Tiberium Infestation"
   has_tiberium_infestation_country_tooltip:0 "Has any level of §YTiberium Infestation§! in country"
+  tiberium_state_modifier_0_tt:0 "§R30%§! Debuff to Building Slots,Recruitable Population,and Resources in this state"
+  tiberium_state_modifier_1_tt:0 "§R50%§! Debuff to Building Slots,Recruitable Population,and Resources in this state"
+  tiberium_state_modifier_2_tt:0 "§R70%§! Debuff to Building Slots,Recruitable Population,and Resources in this state"
+  tiberium_state_modifier_3_tt:0 "§R85%§! Debuff to Building Slots,Recruitable Population,and Resources in this state"
+  tiberium_state_modifier_4_tt:0 "§R100%§! Debuff to Building Slots,Recruitable Population,and Resources in this state"
+  
