@@ -15,6 +15,9 @@ Tiberium is a crystal that suck up minerals and nutrients from the ground like a
 # About
 Tiberium Spread Mechanic are a open source tiberium spread system built to be exported used and easily implemented to other mods. The mod works out of the box with the vanilla base game but might need some minor adjustments when used with mods changing UI and Province ID’s.
 
+# This Branch
+This branch adds a tooltip to the province modifier that shows what it does to the State (Since i couldn't figure out how to make the state modifier icons work properly,they just showed up as soon as tiberium appeared)
+
 ## Game Rules
 | Icon | Name  | Options     |
 |------|-------|-------------| 
